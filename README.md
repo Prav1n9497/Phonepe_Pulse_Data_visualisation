@@ -18,7 +18,7 @@ Developed a Streamlit application for analyzing transactions and user data from 
 - Python
 - Git
 - Pandas
-- PostgreSQL
+- MySQL
 - Streamlit
 - Plotly
 
@@ -30,7 +30,7 @@ git - [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 ```python
 pip install pandas
-pip install psycopg2
+pip install mysql-connector-python
 pip install requests
 pip install streamlit
 pip install plotly
